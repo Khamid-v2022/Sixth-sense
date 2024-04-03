@@ -14,8 +14,8 @@
                 <div class="col-12 col-md-10">
                     <p>Did you know India is the birthplace of spirituality?</p>
                     <p>In fact, it is home to some of the world’s greatest spiritual masters.</p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image1.jpg">
                     </div>
                     <p>These enlightened sages devote their lives to the master of spiritual practices like meditation and yoga.</p>
                     <p class="text-highlight"><span>It’s these practices which are said to give them an almost God like power to create miracles.</span></p>
@@ -54,8 +54,8 @@
                     <p>I did everything right. </p>
                     <p>Went to college, took out more than $100,000 in student loans and worked my butt off. </p>
 
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image2.jpg">
                     </div>
                     
                     <p><u>But at the age of 28 I had nothing to show for it. </u></p>
@@ -77,7 +77,7 @@
                     <p>Saving for things like retirement or medical bills was a pipe dream. </p>
                     <div class="row align-items-center mb-5">
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
-                            <img data-src="https://wealthdnacode.com/img/broke-life.jpg" class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="https://wealthdnacode.com/img/broke-life.jpg">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image3.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
                             <p class="mb-0 text-brown fw-semibold">
@@ -107,8 +107,8 @@
                     <p>It was a rainy morning in November and I was feeling more stressed out than ever. </p>
                     <p>I was standing on a platform, waiting for the train to arrive.  </p>
                     <p class="text-brown fw-semibold">At that moment I started to seriously wonder if I should end it all. </p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image4.jpg">
                     </div>
                     <p>It would be so easy. </p>
                     <p>Then, all of a sudden my phone rang.</p>
@@ -147,8 +147,8 @@
                     <p>So I packed my bags and three days later I was flying into New Delhi.</p>
                     <p>I can still remember the first moment that I spotted this city.</p>
                     <p>It’s a sight I’ll never forget.</p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image5.jpg">
                     </div>
                     <p>The place was a kaleidoscope of colours, sights, and sounds.</p>
                     <p>After getting out of the airport I took a taxi to my hotel.</p>
@@ -177,8 +177,8 @@
                         Give me everything I want, need and desire. 
                     </p>
                     <p>After finishing this prayer I fell asleep again and woke up hours later.</p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image6.jpg">
                     </div>
                     <p>We’d arrived at our destination.</p>
                     <p>I’d slept through the night and it was now early morning. </p>
@@ -211,8 +211,8 @@
                     <p>But I wasn’t prepared to give up. </p>
                     <p>In case you don’t know India is the home of spiritual retreats. </p>
                     <p>People come from all over the world to seek guidance and help with their problems.</p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image7.jpg">
                     </div>
                     <p class="text-brown">And this ashram was no different.</p>
                     <p>There were dozens and dozens of other people staying here. </p>
@@ -259,7 +259,7 @@
                             </p>
                         </div>
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
-                            <img data-src="https://wealthdnacode.com/img/broke-life.jpg" class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="https://wealthdnacode.com/img/broke-life.jpg">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image8.jpg">
                         </div>
                     </div>
                     <p>It was actually the latest version now that I recall. </p>
@@ -303,7 +303,7 @@
                     <p>Lucky for me I was a neuroscientist and could study this subject properly. </p>
                     <div class="row align-items-center mb-5">
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
-                            <img data-src="https://wealthdnacode.com/img/broke-life.jpg" class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="https://wealthdnacode.com/img/broke-life.jpg">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image9.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
                             <p class="mb-0 text-brown fw-semibold">
@@ -332,8 +332,8 @@
                     <p>When I attached this machine to the monks in the ashram I discovered something astounding. </p>
                     <p>Before we get to that you need to understand another important concept. </p>
                     <p class="text-highlight"><span>In neuroscience this is known as coherence.</span></p>
-                    <div class="py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image10.jpg">
                     </div>
                     <p>It’s a tricky concept to explain but I’ll try to make it as simple as possible. </p>
                     <p>The word coherence basically refers to your brain's ability to communicate with itself.</p>
@@ -349,8 +349,8 @@
                     <p>If your brain cannot properly communicate with itself, then you’ll never reach your full potential. </p>
                     <p>And this is what I discovered when I studied the brain waves of these monks. </p>
                     <p>Their brains were almost fully coherent.</p>
-                    <div class="pt-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="pt-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image11.jpg">
                     </div>
                     <p class="text-center text-brown">In fact, their coherence level was <u class="fw-semibold"><em>almost 10 times</em></u> the level of a normal person.</p>
                     <p>And I discovered something even more astounding. </p>
@@ -387,7 +387,7 @@
                     <p>They may sound difficult to understand so here’s a simpler explanation.  </p>
                     <div class="row align-items-center mb-5">
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
-                            <img data-src="https://wealthdnacode.com/img/broke-life.jpg" class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="https://wealthdnacode.com/img/broke-life.jpg">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image12.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
                             <p class="mb-0 text-brown">
@@ -446,8 +446,8 @@
                     <p>What most people don’t know is that each of your brain waves has a specific frequency.</p>
                     <p>For example, alpha waves oscillate at between 8-12 hz while beta waves move between 13-30 hz. </p>
                     <p>Now here’s the interesting thing: </p>
-                    <div class="pt-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image13.jpg">
                     </div>
                     <p>What neuroscientists also discovered is that it’s possible to alter our brain waves simply by listening to these exact same frequencies.</p>
                     <p>If you play a sound wave at the same frequency as alpha your brain will sync up to that.</p>
@@ -459,8 +459,8 @@
                     <p>I needed something that would prove my brain was operating at a higher level.</p>
                     <p>I also wanted something that would make me money. </p>
                     <p>So, I began using my accelerated brain power to learn all about the forex market. </p>
-                    <div class="pt-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image14.jpg">
                     </div>
                     <p>This only took a few weeks. </p>
                     <p>Pretty soon I was spending my days trading forex. </p>
@@ -502,8 +502,8 @@
                     <p>It was then that something miraculous happened. </p>
                     <p>Only a few hours after getting home I received a phone call from my mother.</p>
                     <p class="text-brown">One of my uncles had died and left me a small fortune. </p>
-                    <div class="pt-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
+                    <div class="py-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image15.jpg">
                     </div>
                     <p>What’s funny is that I hadn’t spoken to him in over a decade.</p>
                     <p>Despite this, he made me the main beneficiary in his will. </p>
@@ -566,8 +566,8 @@
                 <div class="col-12 col-md-10 text-center">
                     <p class="fs-30 text-white fw-semibold mb-0"><em>So I’m excited to introduce you to the</em></p>
                     <h2 class="fs-60 text-brown fw-semibold mb-0">Sixth Sense Code</h2>
-                    <div class="pt-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-web.png">
+                    <div class="pt-5 text-center">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-web.png">
                     </div>
                 </div>
             </div>
@@ -628,7 +628,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-5 text-center mb-4 mb-md-0">
-                    <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-gift2-web.png">
+                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-gift2-web.png">
                 </div>
                 <div class="col-12 col-md-5 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
@@ -671,7 +671,7 @@
                     <p>By tapping into your brain power you can come up with an almost unlimited number of ideas. </p>
                     <p>That’s why I’ve worked closely with Brother John to create <em class="fw-bold">The Creativity Code.</em></p>
                     <div class="text-center py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-gift1-web.png">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-gift1-web.png">
                     </div>
                     <p>This is an additional audio that helps to unlock your creative abilities.</p>
                     <p> This audio is extremely valuable to anyone who works in the creative sphere. </p>
@@ -693,7 +693,7 @@
                     <p>And that’s because they live in a permanent state of frontal alpha coherence. </p>
                     <p>So that’s why we’ve created another audio which is designed to supercharge your health.</p>
                     <div class="text-center py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-gift2-web.png">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-gift2-web.png">
                     </div>
                     <p>When you listen to <em class="fw-bold">The Clarity Code</em> for just a few minutes every day, you’ll immediately notice a change in how you look and feel. </p>
                     <p>You’ll develop the habits, discipline, and motivation needed to completely change yourself. </p>
@@ -703,7 +703,7 @@
                     <p>Lastly, I want to give you one more bonus.</p>
                     <p>This is an eBook is called <em class="fw-bold">“The Prosperity Habit Booster”</em></p>
                     <div class="text-center py-5">
-                        <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-gift3-web.png">
+                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-gift3-web.png">
                     </div>
                     <p>You see, here’s what most people don’t understand.</p>
                     <p>Almost all of your success comes down to your habits.</p>
@@ -770,7 +770,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-5 text-center mb-4 mb-md-0">
-                    <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
+                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
                 </div>
                 <div class="col-12 col-md-5 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
