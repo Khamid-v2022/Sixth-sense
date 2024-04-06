@@ -37,7 +37,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 text-center">
                     <p class="fs-30 text-white fw-semibold mb-0"><em>Hi, my name is</em></p>
-                    <h2 class="fs-60 text-brown fw-semibold mb-0">Byron McCloud</h2>
+                    <h2 class="fs-60 text-brown fw-semibold mb-0 text-uppercase">Byron McCloud</h2>
                 </div>
             </div>
         </div>
@@ -80,9 +80,9 @@
                             <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image3.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
-                            <p class="mb-0 text-brown fw-semibold">
+                            <h3 class="mb-0 text-brown fw-semibold">
                                 <em>Yes, surviving was a continuous struggle that left me feeling anxious, depressed, and deeply unhappy…</em>
-                            </p>
+                            </h3>
                         </div>
                     </div>
                     <p>My love life wasn’t any better.</p>
@@ -105,10 +105,16 @@
                     <p>All I really wanted was for this pain to end. </p>
                     <p>And this brings me back to the confession I talked about earlier. </p>
                     <p>It was a rainy morning in November and I was feeling more stressed out than ever. </p>
-                    <p>I was standing on a platform, waiting for the train to arrive.  </p>
-                    <p class="text-brown fw-semibold">At that moment I started to seriously wonder if I should end it all. </p>
-                    <div class="py-5 text-center">
-                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image4.jpg">
+                    <p>I was standing on a platform, waiting for the train to arrive. </p>
+                    <div class="row align-items-center mb-5">
+                        <div class="col-12 col-md-6 text-center text-md-left">
+                            <h3 class="mb-0 text-brown fw-semibold">
+                                <em>At that moment I started to seriously wonder if I should end it all.</em>
+                            </h3>
+                        </div>
+                        <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image4.jpg">
+                        </div>
                     </div>
                     <p>It would be so easy. </p>
                     <p>Then, all of a sudden my phone rang.</p>
@@ -171,11 +177,29 @@
                     <p>I wouldn’t return until I’d uncovered the mystery. </p>
                     <p>No matter what, I was going to get to the bottom of this. </p>
                     <p>At that moment I said a silent prayer.</p>
-                    <p class="text-center text-brown fw-semibold">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sections bg-orange-400">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10 text-center">
+                    <h2 class="fs-30 text-brown fw-semibold mb-0 text-uppercase" style="line-height: 50px;">
                         God please, turn my life around. <br>
                         Help me find a way to change things. <br>
                         Give me everything I want, need and desire. 
-                    </p>
+                    </h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sections">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10">               
                     <p>After finishing this prayer I fell asleep again and woke up hours later.</p>
                     <div class="py-5 text-center">
                         <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image6.jpg">
@@ -254,9 +278,9 @@
                     <p>Sure thing I told him, thinking that this was some kind of joke. </p>
                     <div class="row align-items-center mb-5">
                         <div class="col-12 col-md-6 text-center text-md-left">
-                            <p class="mb-0 text-brown fw-semibold">
+                            <h3 class="mb-0 text-brown fw-semibold">
                                 <em>Now I hadn’t noticed this before but sitting on the table before him was an iPhone.</em>
-                            </p>
+                            </h3>
                         </div>
                         <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
                             <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image8.jpg">
@@ -306,9 +330,9 @@
                             <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image9.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
-                            <p class="mb-0 text-brown fw-semibold">
+                            <h3 class="mb-0 text-brown fw-semibold">
                                 Now, what a lot of people don’t know is that our brains are actually filled with electrical energy.
-                            </p>
+                            </h3>
                         </div>
                     </div>
                     <p>What do you mean I asked him?</p>
@@ -366,7 +390,7 @@
                     <p>What I realized then was shocking. </p>
                     <p>The reason why some monks and holy men seemed to possess superhuman powers was simply because their brains operated at a higher level than ordinary humans. </p>
                     <p>This phenomenon actually has a name in neuroscience.</p>
-                    <p class="text-center text-brown fw-bold">It’s known as frontal alpha coherence.</p>
+                    <h2 class="text-center text-brown fw-bold pb-4">It’s known as frontal alpha coherence.</h2>
                     <p>But there’s also another reason why this is so important.</p>
                     <p>This is the key reason why some people achieve more than others. </p>
                     <p>And also why they earn more money. </p>
@@ -390,9 +414,9 @@
                             <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image12.jpg">
                         </div>
                         <div class="col-12 col-md-6 text-center text-md-left">
-                            <p class="mb-0 text-brown">
+                            <h3 class="mb-0 text-brown">
                             People who score highly in this test are able to pick up a piece of cake…<br><br>…and then choose not to eat it. 
-                            </p>
+                            </h3>
                         </div>
                     </div>
                     <p>Now, what’s interesting is that they’ve done this test on people wearing EEG machines.</p>
@@ -478,7 +502,7 @@
                     <p>Of course not, I replied.</p>
                     <p>Well maybe that’s why God sent you to me. </p>
                     <p>What do you mean I asked?</p>
-                    <p class="text-center text-brown">Well, if you’re here at this specific time and place there must be a reason. </p>
+                    <h2 class="text-center text-brown fw-bold pb-4">Well, if you’re here at this specific time and place there must be a reason. </h2>
                     <p>And the only reason can be because God brought you here for a specific purpose. </p>
                     <p>Listen, he said, glancing at me with a funny look on his face. </p>
                     <p>I want to continue my experiment. </p>
@@ -501,9 +525,15 @@
                     <p>I did this religiously and never skipped a day.</p>
                     <p>It was then that something miraculous happened. </p>
                     <p>Only a few hours after getting home I received a phone call from my mother.</p>
-                    <p class="text-brown">One of my uncles had died and left me a small fortune. </p>
-                    <div class="py-5 text-center">
-                        <img class="description-img rounded" src="/assets/imgs/sixthsense/sixth-sense-code-image15.jpg">
+                    <div class="row align-items-center mb-5">
+                        <div class="col-12 col-md-6 text-center text-md-left">
+                            <h3 class="mb-0 text-brown">
+                            One of my uncles had died and left me a small fortune.
+                            </h3>
+                        </div>
+                        <div class="col-12 col-md-6 text-center mb-3 mb-md-0">
+                            <img class="w-100 w-xs-75 rounded ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/sixth-sense-code-image15.jpg">
+                        </div>
                     </div>
                     <p>What’s funny is that I hadn’t spoken to him in over a decade.</p>
                     <p>Despite this, he made me the main beneficiary in his will. </p>
@@ -517,7 +547,7 @@
                     <p>What’s more, he said it was one of the best things he had ever read. </p>
                     <p>Plus he paid me $5,000 cash on the spot. </p>
                     <p>This was the most I’d ever received for a piece of writing. </p>          
-                    <p class="text-center text-brown">After that things started getting better and better.</p>
+                    <h2 class="text-center text-brown fw-bold pb-4">After that things started getting better and better.</h2>
                     <p>I continued listening to Brother John's audio tracks and came up with more and more ideas.</p>
                     <p>Soon I was earning more than people twice my age. </p>
                     <p>And before long I came to the attention of a prestigious newspaper and was offered a six figure job. </p>
@@ -565,7 +595,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 text-center">
                     <p class="fs-30 text-white fw-semibold mb-0"><em>So I’m excited to introduce you to the</em></p>
-                    <h2 class="fs-60 text-brown fw-semibold mb-0">Sixth Sense Code</h2>
+                    <h2 class="fs-60 text-brown fw-semibold mb-0 text-uppercase">Sixth Sense Code</h2>
                     <div class="pt-5 text-center">
                         <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-web.png">
                     </div>
@@ -628,7 +658,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-5 text-center mb-4 mb-md-0">
-                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-gift2-web.png">
+                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundleonly.png">
                 </div>
                 <div class="col-12 col-md-5 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
@@ -769,10 +799,12 @@
     <section class="sections bg-orange-400">
         <div class="container">
             <div class="row justify-content-center align-items-center">
-                <div class="col-12 col-md-5 text-center mb-4 mb-md-0">
+                <div class="col-12 col-md-8 text-center mb-4 mb-md-0">
                     <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
                 </div>
-                <div class="col-12 col-md-5 text-center">
+            </div>
+            <div class="row justify-content-center align-items-center mt-5">
+                <div class="col-12 col-md-8 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
                         Original Price:
                         <span class="price-strike ml-1">
@@ -799,6 +831,7 @@
             </div>
         </div>
     </section>
+
     <section class="sections">
         <div class="container">
             <div class="row justify-content-center">
@@ -854,10 +887,12 @@
     <section class="sections bg-orange-400">
         <div class="container">
             <div class="row justify-content-center align-items-center">
-                <div class="col-12 col-md-5 text-center mb-4 mb-md-0">
-                    <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
+                <div class="col-12 col-md-8 text-center mb-4 mb-md-0">
+                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
                 </div>
-                <div class="col-12 col-md-5 text-center">
+            </div>
+            <div class="row justify-content-center align-items-center mt-5">
+                <div class="col-12 col-md-8 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
                         Original Price:
                         <span class="price-strike ml-1">
@@ -892,27 +927,160 @@
                     <p>Still here, I see.</p>
                     <p>I don't blame ya. We covered a lot in today’s video and I know you might have some questions.</p>
                     <p>So I’m going to go ahead and answer some of the most commonly asked questions that we get about the <strong>Sixth Sense Code.</strong></p>
-                    <div class="faq-item">
-                        <p class="fw-bold">Q: I've tried other "wealth attraction" programs based on The Law of Attraction. They didn't work, what makes this one any different?</p>
-                        <p>The Sixth Sense Code stands apart, distinct from the well-known "Law of Attraction." This revolutionary approach is rooted in scientific validation, offering a proven method designed to effectively reprogram your mind. By elevating your frontal alpha coherence, it empowers you to enhance decision-making abilities through heightened awareness—an attribute often referred to as the sixth sense.</P>
+
+                    <div class="d-flex mb-5">
+                        <h5 class="fs-30 fw-500 text-brown mr-3">Q:</h5>
+                        <div class="ms-3">
+                            <p class="fs-24 lh-normal mt-1 mt-md-2 mb-3"><strong><em>I've tried other "wealth attraction" programs based on The Law of Attraction. They didn't work, what makes this one any different?</em></strong></p>
+                            <p class="fs-20 lh-2 mb-0">The Sixth Sense Code stands apart, distinct from the well-known "Law of Attraction." This revolutionary approach is rooted in scientific validation, offering a proven method designed to effectively reprogram your mind. By elevating your frontal alpha coherence, it empowers you to enhance decision-making abilities through heightened awareness—an attribute often referred to as the sixth sense.</p>
+                        </div>
                     </div>
-                    <div class="faq-item">
-                        <p class="fw-bold">Q: I don’t have the patience for meditation. Will this help me? </p>
-                        <p>The great thing about the Sixth Sense Code is that there’s no hard work involved. You don’t have to meditate or do any work at all. It’s simply a matter of listening to the audio tracks for a few minutes a day. You can do this while getting ready in the morning, working out, or sitting in a comfy chair. Interestingly, the sixth sense code can also help to improve your patience.  </P>
+                    <div class="d-flex mb-5">
+                        <h5 class="fs-30 fw-500 text-brown mr-3">Q:</h5>
+                        <div class="ms-3">
+                            <p class="fs-24 lh-normal mt-1 mt-md-2 mb-3"><strong><em>I don’t have the patience for meditation. Will this help me?</em></strong></p>
+                            <p class="fs-20 lh-2 mb-0">The great thing about the Sixth Sense Code is that there’s no hard work involved. You don’t have to meditate or do any work at all. It’s simply a matter of listening to the audio tracks for a few minutes a day. You can do this while getting ready in the morning, working out, or sitting in a comfy chair. Interestingly, the sixth sense code can also help to improve your patience.</p>
+                        </div>
                     </div>
-                    <div class="faq-item">
-                        <p class="fw-bold">Q: How soon can I expect results?</p>
-                        <p>Well every person is different, so the answer isn't the same for everybody. Remarkable transformations have been reported as early as the first day, while some may take months to activate their sixth sense. I recommend using it every day for a full month before getting too worried about it.</P>
+                    <div class="d-flex mb-5">
+                        <h5 class="fs-30 fw-500 text-brown mr-3">Q:</h5>
+                        <div class="ms-3">
+                            <p class="fs-24 lh-normal mt-1 mt-md-2 mb-3"><strong><em>How does our guarantee function?</em></strong></p>
+                            <p class="fs-20 lh-2 mb-0">When you commit to the Sixth Sense Code today, you do so with complete confidence, as it comes with a 100% risk-free guarantee. You'll have an entire year to assess your satisfaction with the results. If at any point within the next 365 days you feel that your life hasn't significantly improved, simply reach out to our support team via email or telephone, and we'll promptly issue a full refund of your investment, no questions asked.</p>
+                        </div>
                     </div>
-                    <div class="faq-item">
-                        <p class="fw-bold">Q: How does our guarantee function?</p>
-                        <p>When you commit to the Sixth Sense Code today, you do so with complete confidence, as it comes with a 100% risk-free guarantee. You'll have an entire year to assess your satisfaction with the results. If at any point within the next 365 days you feel that your life hasn't significantly improved, simply reach out to our support team via email or telephone, and we'll promptly issue a full refund of your investment, no questions asked.</P>
-                    </div>
-                    <div class="text-center my-5">
+                    <div class="text-center">
                         <img class="description-img" src="/assets/imgs/sixthsense/sixthsensecode-certificate.png">
+                    </div>
+                    <div class="d-flex mb-5">
+                        <h5 class="fs-30 fw-500 text-brown mr-3">Q:</h5>
+                        <div class="ms-3">
+                            <p class="fs-24 lh-normal mt-1 mt-md-2 mb-3"><strong><em>How soon can I expect results?</em></strong></p>
+                            <p class="fs-20 lh-2 mb-0">Well every person is different, so the answer isn't the same for everybody. Remarkable transformations have been reported as early as the first day, while some may take months to activate their sixth sense. I recommend using it every day for a full month before getting too worried about it.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+   <section class="sections bg-orange-400">
+        <div class="container">
+            <div class="row justify-content-center align-items-center">
+                <div class="col-12 col-md-8 text-center mb-4 mb-md-0">
+                    <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
+                </div>
+            </div>
+            <div class="row justify-content-center align-items-center mt-5">
+                <div class="col-12 col-md-8 text-center">
+                    <p class="orig-price fs-18 mb-2 fw-400">
+                        Original Price:
+                        <span class="price-strike ml-1">
+                            <span>$</span>170
+                            <img class="ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
+                        </span>
+                        
+                        <span class="price-strike">
+                            <span>$</span>97
+                            <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
+                        </span>
+                    </p>
+                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>39</span></p>
+                    <div class="mb-4">
+                        <a href="#" class="btn btn-primary w-100">
+                            <span class="d-block fs-30 lh-1 text-uppercase">Order Now</span>
+                            <span class="fs-18 fw-400 d-block">(365-Days 100% Money-Back Guarantee)</span>
+                        </a>
+                    </div>
+                    <div class="text-center mb-2">
+                        <img class="description-img ls-is-cached" src="/assets/imgs/sixthsense/cc-logos.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="bg-light-gray py-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <p class="mb-3"><strong>References:</strong></p>
+                    <div class="d-flex align-items-start">
+                        <p class="mb-0 me-3">1.</p>
+                        <p class="mb-0">Menon, V., Adleman, N. E., White, C. D., Glover, G. H., & Reiss, A. L. (2001). Error‐related brain activation during a Go/NoGo response inhibition task. Human brain mapping, 12(3), 131-143.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="sections">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10">
+                    <div class="disclaimer-wrap">
+                        <p class="text-center mb-2 mb-md-3"><strong>Disclaimer</strong></p>
+                        <p class="mb-3">
+                            The website's content and the product for sale are based upon the author's opinion and are provided solely on an "AS IS" and "AS AVAILABLE" basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here.
+                        </p>
+                        <p class="mb-3">
+                            ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 1444 S.Entertainment Ave., Suite 410 Boise, ID 83709, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.
+                        </p>
+                        <p class="mb-3">
+                            Testimonials, case studies, and examples found on this page are results that have been forwarded to us by users of Sixth Sense Code products and related products are not intended to represent or guarantee that anyone will achieve the same or similar results.
+                        </p>
+                        <p class="mb-0">
+                            EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT'S POTENTIAL. THERE IS NO GUARANTEE THAT YOU WILL EARN ANY MONEY USING THE TECHNIQUES AND IDEAS IN THESE MATERIALS. THE STATEMENTS OF EARNINGS MADE ARE EXAMPLES OF THE SUCCESS THE AUTHOR HAS HAD IN USING THE TECHNIQUES OUTLINED IN THE PRODUCT THEY ARE SELLING. EXAMPLES IN THESE MATERIALS ARE NOT TO BE INTERPRETED AS A PROMISE OR GUARANTEE OF EARNINGS. EARNING POTENTIAL IS ENTIRELY DEPENDENT ON THE PERSON USING THE PRODUCT, IDEAS AND TECHNIQUES.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center mt-5">
+                <div class="col-12 col-md-7">
+                    <div class="alert alert-warning fs-default px-3 px-md-4 py-2 py-md-3">
+                        <strong>Note:</strong> This program is 100% digital; you will not be receiving any physical materials.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="cta-area py-3 ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <p class="fs-14 mb-0">
+                        sixthsensecode.com |
+                        Copyright ©
+                        <?=date("Y")?>
+                        All right reserved
+                    </p>
+                    <p class="fs-14 mb-0 font-weight-bold">
+                        To reach our customer support please email us at <a href="mailto:customer_support@sixthsensecode.com"><u>customer_support@sixthsensecode.com</u></a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12 col-md-10 text-center d-md-flex justify-content-center mx-auto">
+                    <div>
+                        <a href="#" target="_blank">Legal</a>
+                    </div>
+                    <div>
+                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Terms of Use</a>
+                    </div>
+                    <div>
+                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Privacy Policy</a>
+                    </div>
+                    <div>
+                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Testimonials and Results Disclaimer</a>
+                    </div>
+                    <div>
+                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Affiliate Disclosure</a>
+                    </div>
+                    <div>
+                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Earnings Disclaimer</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </div>

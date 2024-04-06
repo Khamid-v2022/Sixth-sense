@@ -24,7 +24,7 @@
     margin-bottom: 1.3rem;
 }
 .page-sixthsense .sections .description-img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 .page-sixthsense .sections .text-highlight {
@@ -35,7 +35,6 @@
     border-radius: 100px;
     padding: 0.125rem 1rem;
 }
-
 @media (max-width: 767px) {
     .page-sixthsense .sections p {
         font-size: 1.2rem;
@@ -49,7 +48,6 @@
         margin-bottom: 1.3rem;
     }
 }
-
 .page-sixthsense .price-strike {
     font-size: 1.875rem;
     font-weight: 700;
@@ -57,7 +55,6 @@
     padding: 0 0.625rem;
     min-width: 85px;
 }
-
 .page-sixthsense .new-price {
     text-align: center;
     font-size: 1.125rem;
@@ -65,7 +62,6 @@
     background-color: #f5dba5;
     padding: 0.25rem;
 }
-
 .page-sixthsense .price-strike img {
     box-shadow: none;
     border: none;
@@ -74,4 +70,23 @@
     right: 0;
     top: 20px;
     width: 100%;
+}
+.page-sixthsense .disclaimer-wrap {
+    background-color: #fefdfb;
+    border: 1px solid #73060f;
+    box-shadow: 0 0 30px rgba(220, 175, 226, 0.15);
+    padding: 1.5rem 2rem;
+}
+.page-sixthsense .disclaimer-wrap p {
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #1d79a6;
+    color: #fff;
+    font-size: 0.875rem;
+}
+footer a {
+    color: white;
 }
