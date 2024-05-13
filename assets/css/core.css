@@ -60,3 +60,7 @@ a {
 img {
     max-width: 100%;
 }
+
+.logo-img {
+    max-width: 230px;
+}

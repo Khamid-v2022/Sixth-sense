@@ -25,4 +25,11 @@ class Sixthsense extends Base_Controller {
 		$this->load->view('pages/page-sixthsense');
 		$this->load->view('layout/footer');
 	}
+
+	public function privacy_policy() {
+		$data['page_name'] = "Privacy Policy";
+		$this->load->view('layout/header_common', $data);
+		$this->load->view('pages/page-privacy-policy');
+		$this->load->view('layout/footer');
+	}
 }

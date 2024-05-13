@@ -25,7 +25,7 @@
                             <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Terms of Use</a>
                         </div>
                         <div>
-                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Privacy Policy</a>
+                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="/privacy-policy" target="_blank"> Privacy Policy</a>
                         </div>
                         <div>
                             <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Testimonials and Results Disclaimer</a>

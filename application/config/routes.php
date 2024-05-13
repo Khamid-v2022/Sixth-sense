@@ -54,8 +54,8 @@ $route['oto1-pd'] = 'Oto1_pd';
 $route['oto1-ds-pd'] = 'Oto1_ds_pd';
 $route['oto2-pd'] = 'Oto2_pd';
 $route['oto2-ds-pd'] = 'Oto2_ds_pd';
-
 $route['index_ds'] = 'SixthsenseDs';
+$route['privacy-policy'] = 'Sixthsense/privacy_policy';
 
 
 $route['404_override'] = '';
