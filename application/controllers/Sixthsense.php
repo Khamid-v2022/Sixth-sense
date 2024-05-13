@@ -32,4 +32,25 @@ class Sixthsense extends Base_Controller {
 		$this->load->view('pages/page-privacy-policy');
 		$this->load->view('layout/footer');
 	}
+
+	public function earning_disclaimer(){
+		$data['page_name'] = "Earning Disclaimer";
+		$this->load->view('layout/header_common', $data);
+		$this->load->view('pages/page-earning-disclaimer');
+		$this->load->view('layout/footer');
+	}
+
+	public function testimonials_disclaimer() {
+		$data['page_name'] = "TESTIMONIALS AND RESULTS DISCLOSURE";
+		$this->load->view('layout/header_common', $data);
+		$this->load->view('pages/page-testimonials-and-results-disclaimer');
+		$this->load->view('layout/footer');
+	}
+
+	public function terms_of_use() {
+		$data['page_name'] = "Terms of Use";
+		$this->load->view('layout/header_common', $data);
+		$this->load->view('pages/page-terms-of-use');
+		$this->load->view('layout/footer');
+	}
 }

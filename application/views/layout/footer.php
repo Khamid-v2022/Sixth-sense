@@ -19,22 +19,16 @@
                 <div class="row">
                     <div class="col-12 col-md-10 text-center d-md-flex justify-content-center mx-auto">
                         <div>
-                            <a href="#" target="_blank">Legal</a>
-                        </div>
-                        <div>
-                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Terms of Use</a>
+                            <a href="/terms-of-use" target="_blank"> Terms of Use</a>
                         </div>
                         <div>
                             <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="/privacy-policy" target="_blank"> Privacy Policy</a>
                         </div>
                         <div>
-                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Testimonials and Results Disclaimer</a>
+                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="/testimonials-and-results-disclaimer" target="_blank">Testimonials and Results Disclaimer</a>
                         </div>
                         <div>
-                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Affiliate Disclosure</a>
-                        </div>
-                        <div>
-                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Earnings Disclaimer</a>
+                            <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="/earning-disclaimer" target="_blank">Earnings Disclaimer</a>
                         </div>
                     </div>
                 </div>

@@ -247,6 +247,7 @@
 
     .privacy-policy {
         background-color: #f6f8f8;
+        min-height: calc(100vh - 95px);
     }
     .privacy-policy ul.main-list > li {
         margin-bottom: 1rem;
