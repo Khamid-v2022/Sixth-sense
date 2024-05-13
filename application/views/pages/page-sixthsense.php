@@ -964,13 +964,15 @@
         </div>
     </section>
 
-   <section class="sections bg-orange-400">
+  
+    <section class="sections bg-orange-400">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 col-md-8 text-center mb-4 mb-md-0">
                     <img class="description-img rounded" src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
                 </div>
             </div>
+
             <div class="row justify-content-center align-items-center mt-5">
                 <div class="col-12 col-md-8 text-center">
                     <p class="orig-price fs-18 mb-2 fw-400">
@@ -997,8 +999,10 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </section>
+
     <section class="bg-light-gray py-5">
         <div class="container">
             <div class="row justify-content-center">
@@ -1042,45 +1046,4 @@
             </div>
         </div>
     </section>
-
-    <footer class="cta-area py-3 ">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <p class="fs-14 mb-0">
-                        sixthsensecode.com |
-                        Copyright ©
-                        <?=date("Y")?>
-                        All right reserved
-                    </p>
-                    <p class="fs-14 mb-0 font-weight-bold">
-                        To reach our customer support please email us at <a href="mailto:customer_support@sixthsensecode.com"><u>customer_support@sixthsensecode.com</u></a>
-                    </p>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-12 col-md-10 text-center d-md-flex justify-content-center mx-auto">
-                    <div>
-                        <a href="#" target="_blank">Legal</a>
-                    </div>
-                    <div>
-                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Terms of Use</a>
-                    </div>
-                    <div>
-                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank"> Privacy Policy</a>
-                    </div>
-                    <div>
-                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Testimonials and Results Disclaimer</a>
-                    </div>
-                    <div>
-                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Affiliate Disclosure</a>
-                    </div>
-                    <div>
-                        <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="#" target="_blank">Earnings Disclaimer</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
 </div>

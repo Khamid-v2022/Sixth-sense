@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Sixthsense extends Base_Controller {
+class Oto1_ds_pd extends Base_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,9 +20,9 @@ class Sixthsense extends Base_Controller {
 	 */
 	public function index()
 	{
-		$data['page_name'] = "Sixthsensecode";
+		$data['page_name'] = "$20 Discount Approved!";
 		$this->load->view('layout/header_common', $data);
-		$this->load->view('pages/page-sixthsense');
+		$this->load->view('pages/page-oto1-ds-pd');
 		$this->load->view('layout/footer');
 	}
 }

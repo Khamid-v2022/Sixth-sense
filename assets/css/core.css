@@ -2,6 +2,9 @@
     font-size: 1.875rem!important;
     line-height: 1.3;
 }
+.fs-40 {
+    font-size: 2.6rem;
+}
 .fs-60 {
     font-size: 3rem!important;
     line-height: 1.5;
@@ -10,6 +13,9 @@
 @media (max-width: 767px) {
     .fs-30 {
         font-size: 1.4rem!important;
+    }
+    .fs-40 {
+        font-size: 1.8rem;
     }
     .fs-60 {
         font-size: 2.25rem!important;
@@ -28,4 +34,19 @@
 }
 .bg-light-gray {
     background-color: #f9f9f9;
+}
+
+.btn-primary {
+    --bs-btn-bg: #1d79a6;
+}
+
+a, .text-primary {
+    color: #1d79a6;
+}
+
+
+
+
+img {
+    max-width: 100%;
 }

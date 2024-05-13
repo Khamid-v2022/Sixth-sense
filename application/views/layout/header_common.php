@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-        <title>Sixthsensecode | Sixthsensecode</title>
+        <title><?=$page_name?> | Sixthsensecode</title>
         <meta name="description" content="" />
         <meta name="keywords" content="">
     
@@ -21,6 +21,6 @@
     </head>
 
     <body class="body">
-    
+        <div class="page-content">
 
 

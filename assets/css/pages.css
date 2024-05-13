@@ -1,92 +1,223 @@
-.page-sixthsense .headline {
-    background-image: url('../imgs/sixthsense/background-image.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding: 6rem 0;
-}
-.page-sixthsense .sections {
-    padding: 3rem 0;
-}
-.page-sixthsense .sections p {
-    font-size: 1.375rem;
-    font-weight: 400;
-    line-height: 1.5;
-    margin-bottom: 1.5rem;
-}
-.page-sixthsense .sections ul {
-    /* list-style: none; */
-}
-.page-sixthsense .sections ul li {
-    font-size: 1.375rem;
-    font-weight: 400;
-    line-height: 1.5;
-    margin-bottom: 1.3rem;
-}
-.page-sixthsense .sections .description-img {
-    max-width: 80%;
-}
-
-.page-sixthsense .sections .text-highlight {
-    margin-left: -1rem;
-}
-.page-sixthsense .sections .text-highlight span {
-    background-color: #ffedd2;
-    border-radius: 100px;
-    padding: 0.125rem 1rem;
-}
-@media (max-width: 767px) {
-    .page-sixthsense .sections p {
-        font-size: 1.2rem;
-        margin-bottom: 1.25rem;
+/* Common */
+    .page-content {
+        min-height: calc(100vh - 95px);
+    }   
+    footer {
+        background-color: #1d79a6;
+        color: #fff;
+        font-size: 0.875rem;
+    }
+    footer a {
+        color: white;
     }
 
+    .disclaimer-wrap {
+        background-color: #fefdfb;
+        border: 1px solid #73060f;
+        box-shadow: 0 0 30px rgba(220, 175, 226, 0.15);
+        padding: 1.5rem 2rem;
+    }
+    .disclaimer-wrap p {
+        font-size: 0.875rem;
+        margin-bottom: 1rem;
+    }
+    .alert {
+        font-size: 1rem;
+    }
+/* Common Ends */
+
+
+
+/* Home page Starts */
+    .page-sixthsense .headline {
+        background-image: url('../imgs/sixthsense/background-image.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding: 6rem 0;
+    }
+    .page-sixthsense .sections {
+        padding: 3rem 0;
+    }
+    .page-sixthsense .sections p {
+        font-size: 1.375rem;
+        font-weight: 400;
+        line-height: 1.5;
+        margin-bottom: 1.5rem;
+    }
+    .page-sixthsense .sections ul {
+        /* list-style: none; */
+    }
     .page-sixthsense .sections ul li {
-        font-size: 1.2rem;
+        font-size: 1.375rem;
         font-weight: 400;
         line-height: 1.5;
         margin-bottom: 1.3rem;
     }
-}
-.page-sixthsense .price-strike {
-    font-size: 1.875rem;
-    font-weight: 700;
-    position: relative;
-    padding: 0 0.625rem;
-    min-width: 85px;
-}
-.page-sixthsense .new-price {
-    text-align: center;
-    font-size: 1.125rem;
-    font-weight: 600;
-    background-color: #f5dba5;
-    padding: 0.25rem;
-}
-.page-sixthsense .price-strike img {
-    box-shadow: none;
-    border: none;
-    position: absolute;
-    left: 5px;
-    right: 0;
-    top: 20px;
-    width: 100%;
-}
-.page-sixthsense .disclaimer-wrap {
-    background-color: #fefdfb;
-    border: 1px solid #73060f;
-    box-shadow: 0 0 30px rgba(220, 175, 226, 0.15);
-    padding: 1.5rem 2rem;
-}
-.page-sixthsense .disclaimer-wrap p {
-    font-size: 0.875rem;
-    margin-bottom: 1rem;
-}
+    .page-sixthsense .sections .description-img {
+        max-width: 80%;
+    }
 
-footer {
-    background-color: #1d79a6;
-    color: #fff;
-    font-size: 0.875rem;
-}
-footer a {
-    color: white;
-}
+    .page-sixthsense .sections .text-highlight {
+        margin-left: -1rem;
+    }
+    .page-sixthsense .sections .text-highlight span {
+        background-color: #ffedd2;
+        border-radius: 100px;
+        padding: 0.125rem 1rem;
+    }
+    @media (max-width: 767px) {
+        .page-sixthsense .sections p {
+            font-size: 1.2rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .page-sixthsense .sections ul li {
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.5;
+            margin-bottom: 1.3rem;
+        }
+    }
+    .page-sixthsense .price-strike {
+        font-size: 1.875rem;
+        font-weight: 700;
+        position: relative;
+        padding: 0 0.625rem;
+        min-width: 85px;
+    }
+    .page-sixthsense .new-price {
+        text-align: center;
+        font-size: 1.125rem;
+        font-weight: 600;
+        background-color: #f5dba5;
+        padding: 0.25rem;
+    }
+    .page-sixthsense .price-strike img {
+        box-shadow: none;
+        border: none;
+        position: absolute;
+        left: 5px;
+        right: 0;
+        top: 20px;
+        width: 100%;
+    }
+    
+/* Home page Ends */
+
+/* oto1_pd page Starts */
+    .page-oto1_pd .headline {
+        background-image: url(../imgs/sixthsense/background-image.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding: 1rem 0 14rem 0;
+    }
+
+    .page-oto1_pd .logo-img {
+        width: 160px;
+    }
+
+    .page-oto1_pd .card-wizard {
+        background-color: #fffce8;
+    }
+
+    .page-oto1_pd .wizard-item {
+        flex: 1;
+        text-align: center;
+        font-size: 1rem;
+        color: #ccb36e;
+        font-weight: 400;
+        padding: 0.8rem 0;
+        position: relative;
+    }
+    .page-oto1_pd .wizard-badge {
+        border-radius: 50%;
+        background-color: #ccb36e;
+        color: #fff;
+        font-size: 0.9rem;
+        width: 26px;
+        height: 26px;
+        display: inline-block;
+        vertical-align: middle;
+        line-height: 1.6rem;
+        margin-right: 0.5rem;
+    }
+
+    .page-oto1_pd .wizard-item.active {
+        background-color: #ccb36e;
+        color: #fff;
+    }
+    .page-oto1_pd .wizard-item.active .wizard-badge {
+        background: #fff;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+        color: #ccb36e;
+    }
+
+    .page-oto1_pd .arrow:after {
+        border-top: 26px inset transparent;
+        border-bottom: 26px inset transparent;
+        border-left: 26px solid #ccb36e;
+        right: -26px;
+        position: absolute;
+        content: "";
+        top: 0;
+        z-index: 2;
+        width: 0;
+        height: 0;
+    }
+    .page-oto1_pd .arrow-alt:after {
+        border-top: 26px inset transparent;
+        border-bottom: 26px inset transparent;
+        border-left: 26px solid #fffce8;
+        right: -26px;
+        position: absolute;
+        content: "";
+        top: 0;
+        z-index: 2;
+        width: 0;
+        height: 0;
+    }
+
+    .page-oto1_pd .video {
+        margin-top: -12rem;
+    }
+
+    .page-oto1_pd .video-area {
+        display: block;
+        border: 10px solid rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        position: relative;
+    }
+
+    @media (max-width: 767px) {
+        .page-oto1_pd .arrow:after {
+            content: none;
+        }
+        .page-oto1_pd .arrow-alt:after {
+            content: none;
+        }
+        .page-oto1_pd .video {
+            margin-top: -12rem;
+        }
+    }
+/* oto1_pd page Ends */
+
+/* Insta Growth Accelerator Page Starts */
+    .page-oto1-ds-pd .headline {
+        background-image: url('../imgs/sixthsense/background-image.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding: 1rem 0 3rem 0;
+    }
+    .page-oto1-ds-pd .logo-img {
+        width: 230px;
+    }
+
+    .page-oto1-ds-pd .page-body {
+        background-color: #fbf9f2;
+        padding: 80px 0;
+        font-size: 1.375rem;
+    }
+/* Insta Growth Accelerator Page Ends */
