@@ -53,4 +53,11 @@ class Sixthsense extends Base_Controller {
 		$this->load->view('pages/page-terms-of-use');
 		$this->load->view('layout/footer');
 	}
+
+	public function sixthsensedlindex() {
+		$data['page_name'] = "Sixth Sense Code Download Area";
+		$this->load->view('layout/header_common', $data);
+		$this->load->view('pages/page-sixthsensedlindex');
+		$this->load->view('layout/footer');
+	}
 }

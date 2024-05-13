@@ -64,3 +64,17 @@ img {
 .logo-img {
     max-width: 230px;
 }
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+@media (max-width: 767px) {
+    .w-xs-75 {
+        width: 75% !important;
+    }
+}
