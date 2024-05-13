@@ -228,3 +228,18 @@
         background-color: #f6f8f8;
     }
 /* Insta Growth Accelerator Page Ends */
+
+    .page-sixthsense .logo-img {
+        width: 230px;
+    }
+    .moneyback-overlay {
+        background-color: #7a3b2c;
+        color: #fff;
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-align: center;
+        padding: 0.5rem;
+        position: absolute;
+        width: 100%;
+        top: 50%;
+    }

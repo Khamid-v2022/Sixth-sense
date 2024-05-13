@@ -55,6 +55,8 @@ $route['oto1-ds-pd'] = 'Oto1_ds_pd';
 $route['oto2-pd'] = 'Oto2_pd';
 $route['oto2-ds-pd'] = 'Oto2_ds_pd';
 
+$route['index_ds'] = 'SixthsenseDs';
+
 
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
