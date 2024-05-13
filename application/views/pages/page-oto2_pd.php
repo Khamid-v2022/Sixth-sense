@@ -27,7 +27,7 @@
         <div class="container">
             <div class="video-area mx-auto" style="max-width: 900px">
                 <div class="video-wrapper">
-                    <div id="vidalytics_embed_jn7lum2L09v94cqX" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
+                    <div id="vidalytics_embed_FsRoF0NfvhbdC9fL" style="width: 100%; position:relative; padding-top: 56.25%;"></div>
                     <script type="text/javascript">
                     (function (v, i, d, a, l, y, t, c, s) {
                         y='_'+d.toLowerCase();c=d+'L';if(!v[d]){v[d]={};}if(!v[c]){v[c]={};}if(!v[y]){v[y]={};}var vl='Loader',vli=v[y][vl],vsl=v[c][vl + 'Script'],vlf=v[c][vl + 'Loaded'],ve='Embed';
@@ -37,7 +37,7 @@
                             i.getElementsByTagName("head")[0].appendChild(s);
                         };}
                         vsl(l+'loader.min.js',function(){if(!vli){var vlc=v[c][vl];vli=new vlc();}vli.loadScript(l+'player.min.js',function(){var vec=v[d][ve];t=new vec();t.run(a);});});
-                    })(window, document, 'Vidalytics', 'vidalytics_embed_jn7lum2L09v94cqX', 'https://fast.vidalytics.com/embeds/Ye7IzOwk/jn7lum2L09v94cqX/');
+                    })(window, document, 'Vidalytics', 'vidalytics_embed_FsRoF0NfvhbdC9fL', 'https://fast.vidalytics.com/embeds/Ye7IzOwk/FsRoF0NfvhbdC9fL/');
                     </script>
                 </div>
             </div>

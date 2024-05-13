@@ -52,6 +52,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'Sixthsense';
 $route['oto1-pd'] = 'Oto1_pd';
 $route['oto1-ds-pd'] = 'Oto1_ds_pd';
+$route['oto2-pd'] = 'Oto2_pd';
+$route['oto2-ds-pd'] = 'Oto2_ds_pd';
 
 
 $route['404_override'] = '';

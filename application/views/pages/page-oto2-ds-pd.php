@@ -1,11 +1,10 @@
-<div class="page-oto1-ds-pd">    
+<div class="page-oto2-ds-pd">    
     <section class="headline">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 text-center">
-                    <img class="logo-img mb-4" src="/assets/imgs/sixthsense/instagrowth-accelerator-logo.png">
-                    <h1 class="fs-60 fw-medium text-uppercase text-white">Congratulations!</h1>
-                    <h3 class="fs-40 fw-medium text-white mb-0">Your <span class="text-brown"><span class="fs-28">$</span>20 Discount</span> Is Approved!</h3>
+                    <img class="logo-img mb-4" src="/assets/imgs/sixthsense/interconnect-relationship-haven-logo.png">
+                    <h1 class="fs-60 fw-medium text-uppercase text-white">Claim Your $17 Discount NOW!</h1>
                 </div>
             </div>
         </div>
@@ -16,31 +15,26 @@
                 <div class="col-12">
                     <div class="card">
                         <div class="card-body p-4 p-md-5">
-                            <div class="row align-items-center mb-5">
+                            <div class="text-center">
+                                <h1>Interconnect Relationship Haven</h1>
+                                <h3 class="fw-medium"><i>Activate your DNA to attract real, authentic <br>and meaningful relationships</i></h3>
+                            </div>
+                            <div class="row align-items-center my-5 text-center">
+                                
                                 <div class="col-12 col-md-6 text-center mb-4 mb-md-0">
-                                    <img class="w-xs-75 ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/upsell1-bundle2-web.png">
+                                    <img class="w-xs-75 ls-is-cached lazyloaded" src="/assets/imgs/sixthsense/upsell2-bundle3-web.png">
                                 </div>
                                 <div class="col-12 col-md-6 text-center">
-                                    <p class="mb-4">Want to accelerate the speed of your wealth creation? Don’t miss this chance to grab the complete set of <strong class="text-brown">Insta Growth Accelerator</strong> at a STEAL for</p>
+                                    <p class="mb-4">I want to help you end the loneliness crisis!</p>
+                                    <p>So here is a special discount that is only offered to family and friends.</p>
+
+                                    <h2 class="fs-30 fw-500 text-primary text-center my-5">Only <del class="text-danger"><span class="text-dark">$47</span></del> <strong class="fs-40">$29.90</strong></h2>
                                     
-                                    <p class="mb-3">
-                                        <del class="text-danger">
-                                            <span class="text-dark">$250 $167 $67</span>
-                                        </del>
-                                    </p>
-                                    
-                                    <h2 class="fw-500 text-brown text-center mb-2">Only $<strong class="fs-50">47</strong></h2>
-                                    <p class="mb-1">ONLY <strong class="text-brown"><span class="counter fs-30">3</span></strong> Packages Left</p>
-                                    <p class="mb-0">That Quality For This Special <span class="fs-20">$</span>20 Discount.</p>
+                                    <p class="mb-0">TRY FOR 365 DAYS<br>100% RISK FREE.</p>
                                 </div>
                             </div>
                             <div class="row mb-5">
                                 <div class="col-12">
-                                    <div class="text-center mb-5">
-                                        <div class="alert alert-danger fs-20 text-center border-0 d-inline-block mx-auto">
-                                            CLOSE THIS PAGE AND THE DEAL IS GONE FOREVER!
-                                        </div>
-                                    </div>
                                     <div class="row justify-content-center mb-3">
                                         <div class="col-12 col-md-8">
                                             <a href="#" class="btn btn-primary text-uppercase w-100 py-3">
@@ -53,8 +47,8 @@
 
                             <div class="row justify-content-center mb-5">
                                 <div class="col-12 col-md-10">
-                                    <p class="text-center px-0 px-md-5 mb-5">
-                                        <a href="#"><u>No thanks. I will not try out Insta Growth Accelerator. <br>I give up the massive discount that is only available to me today.</u></a>
+                                    <p class="fs-20 text-center px-0 px-md-5 mb-5">
+                                        <a href="#"><u>No thanks. I give up on this chance to try Interconnect Relationship Haven risk-free, at the lowest price possible.</u></a>
                                     </p>
 
                                     <div class="disclaimer-wrap">

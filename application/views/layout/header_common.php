@@ -18,6 +18,8 @@
         <!-- gloabal style -->
         <link rel="stylesheet" href="/assets/css/core.css" />
         <link rel="stylesheet" href="/assets/css/pages.css" />
+
+        <script src="/assets/vendor/jquery-3.7.1.min.js"></script>
     </head>
 
     <body class="body">
