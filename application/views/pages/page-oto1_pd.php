@@ -44,7 +44,7 @@
         </div>
     </section>
 
-    <div class="modal exit-modal" id="exitModal" role="dialog" aria-labelledby="exitModalTitle" aria-hidden="true" data-backdrop="static" data-keyboard="false" style="display: none;">
+    <!-- <div class="modal exit-modal" id="exitModal" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
         <div class="modal-dialog modal-md modal-dialog-centered" role="document">
             <div class="modal-content">
                 <div class="modal-body p-3">
@@ -66,6 +66,41 @@
                             CONTINUE WATCHING ›
                         </a>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+
+    <div class="modal wait-modal" id="waitModal" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Wait! Try The <span class="text-yellow">Sixth Sense Code</span> At a Discounted Price of <span class="text-yellow">$27</span> Today?</h2>
+                    <a type="button" class="close-btn" data-bs-dismiss="modal" aria-label="Close">
+                        ✕
+                    </a>
+                </div>
+                <div class="modal-body">
+                    <h4 class="text-center"><b>Click The Button Below Now To Learn More About This Time-Sensitive Offer!</b></h3>
+                    <div class="countdown-wrapper">
+                        <div class="countdown-hours-wrapper">
+                            <div class="countdown-item" id="countdown_hour">00</div>
+                            <label>HOUR</label>
+                        </div>
+                        <div class="countdown-minute-wrapper">
+                            <div class="countdown-item" id="countdown_minute">00</div>
+                            <label>MINUTE</label>
+                        </div>
+                        <div class="countdown-second-wrapper">
+                            <div class="countdown-item" id="countdown_second">00</div>
+                            <label>SECOND</label>
+                        </div>
+                    </div>
+                    <div class="mt-4">
+                        <img src="/assets/imgs/sixthsense/sixthsensecode-bundle1-with-guarantee.png">
+                    </div>
+                    <a id="lern_more" href="https://sixthsensecode.com/index_ds">> Learn More</a>
                 </div>
             </div>
         </div>
