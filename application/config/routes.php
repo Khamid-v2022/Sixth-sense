@@ -61,6 +61,10 @@ $route['testimonials-and-results-disclaimer'] = 'Sixthsense/testimonials_disclai
 $route['terms-of-use'] = 'Sixthsense/terms_of_use';
 $route['sixthsensedlindex'] = 'Sixthsense/sixthsensedlindex';
 
+$route['downloads'] = 'Sixthsense/downloadPage';
+$route['upsell1/downloads'] = 'Sixthsense/upsell1DownloadPage';
+$route['upsell2/downloads'] = 'Sixthsense/upsell2DownloadPage';
+
 $route['affiliates'] = 'Affiliates';
 $route['affiliates/tools'] = 'Affiliates/toolsPage';
 
