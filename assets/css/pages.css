@@ -149,7 +149,8 @@ header .nav-item.active .nav-link {
 /* Home page Ends */
 
 /* oto1_pd page Starts */
-    .page-oto1_pd .headline {
+    .page-oto1_pd .headline,
+    .page-affiliate .headline {
         background-image: url(../imgs/sixthsense/background-image.png);
         background-repeat: no-repeat;
         background-size: cover;
@@ -222,7 +223,8 @@ header .nav-item.active .nav-link {
         height: 0;
     }
 
-    .page-oto1_pd .video {
+    .page-oto1_pd .video,
+    .page-affiliate .signup-form-wrapper {
         margin-top: -12rem;
     }
 
@@ -417,4 +419,67 @@ header .nav-item.active .nav-link {
     
 
 
-    /*  */
+/* Affiliate Page Starts */
+    .page-affiliate .signup-form-wrapper {
+        width: 100%;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .page-affiliate .signup-form-wrapper .card-body {
+        padding: 30px 40px;
+    }
+
+    .page-affiliate .another-btn {
+        display: block;
+        border-style: solid;
+        border-width: 1px;
+        border-color: #29528f;
+        border-radius: 6px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 0px 15px 0px rgba(230, 230, 230, 0.75);
+        display: block;
+        color: #000;
+        text-align: center;
+        padding: 3rem 1rem;
+        text-decoration: none;
+    }
+
+    .product-list {
+        list-style: none;
+    }
+    .page-affiliate .product-list li::before {
+        content: "\2714\0020";
+        color: #438600;
+        font-weight: bold;
+        display: inline-block;
+        width: 1em;
+        margin-left: -1.2em;
+        margin-right: 1rem;
+        font-family: "Lato", sans-serif;
+    }
+    
+    .page-affiliate.page-affiliate-tools .menu-item {
+        font-size: 1.125rem;
+        color: #333;
+        display: block;
+        padding: 5px 20px;
+        margin-bottom: 10px;
+    }
+    .page-affiliate.page-affiliate-tools .menu-item.active {
+        color: #29528f !important;
+        border-radius: 5px;
+        background-color: #f4f6f9 !important
+    }
+    .page-affiliate.page-affiliate-tools .menu-item i {
+        margin-right: 8px;
+        width: 25px;
+        text-align: center;
+    }
+    .page-affiliate.page-affiliate-tools .form-control:disabled, .form-control[readonly] {
+        background-color: #e9ecef;
+        opacity: 1;
+    }
+    
+/* Affiliate Page Ends */

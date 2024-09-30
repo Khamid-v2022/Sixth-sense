@@ -1,6 +1,6 @@
-var hours = 1;
+var hours = 0;
 var minutes = 30;
-var seconds = 30;
+var seconds = 0;
 var timerInterval = null;
 
 $(function () {

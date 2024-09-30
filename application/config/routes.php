@@ -61,5 +61,8 @@ $route['testimonials-and-results-disclaimer'] = 'Sixthsense/testimonials_disclai
 $route['terms-of-use'] = 'Sixthsense/terms_of_use';
 $route['sixthsensedlindex'] = 'Sixthsense/sixthsensedlindex';
 
+$route['affiliates'] = 'Affiliates';
+$route['affiliates/tools'] = 'Affiliates/toolsPage';
+
 $route['404_override'] = 'Sixthsense';
 $route['translate_uri_dashes'] = FALSE;

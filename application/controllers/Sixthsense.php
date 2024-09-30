@@ -60,4 +60,6 @@ class Sixthsense extends Base_Controller {
 		$this->load->view('pages/page-sixthsensedlindex');
 		$this->load->view('layout/footer');
 	}
+
+	
 }
