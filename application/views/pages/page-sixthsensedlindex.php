@@ -56,49 +56,50 @@
                 <div class="col-12 col-md-10">
                     <div class="row justify-content-center">
                         <p>
-                            Huge shoutout for getting yourself a copy of Sixth Sense Code.
+                            Big congratulations on grabbing your copy of the <strong>Sixth Sense Code</strong>! You’re on your way to unlocking the power of your intuition and taking your life to the next level!
                         </p>
 
                         <div class="py-5 text-center">
-                            <img class="description-img w-60 w-xs-75"  src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
+                            <a href="https://sixthsensecode.com/dlarea_fe_sixthsense"><img class="description-img w-60 w-xs-75"  src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png"></a>
                         </div>
                         <p class="text-center mb-5">
-                            <a href="#"><u>Download Your Sixth Sense Code Materials</u></a>
+                            <a href="https://sixthsensecode.com/dlarea_fe_sixthsense"><u>Download Your Sixth Sense Code Materials</u></a>
                         </p>
 
-                        <p>With this decision you just made…
-                        </p><p>You now have a chance to rewrite your life story just like it did for most of our members...</p>
-
-                        <div class="card mt-4 mb-5">
-                            <div class="card-body p-5">
-                                <p class="fs-24 mb-3"><strong>“Look, I used to be a line cook at an Applebees in Wisconsin.</strong></p>
-                                <p class="fs-20 fw-300 mb-4">Now I live in Costa Rica where I bought a house overlooking the ocean. I can tell you I didn’t get that with my line cook skills. Discovering the Sixth Sense Code changed the entire course of my life and it couldn’t have come a moment too soon!”</p>
-                                <div class="d-flex align-items-center">
-                                    <img class="me-3 ls-is-cached lazyloaded" src="/assets/imgs/profile.png">
-                                    <div>
-                                        <p class="fs-20 mb-0"><strong>Brandon</strong></p>
-                                        <p class="fs-18 mb-0">Green Bay, Wisconsin</p>
+                        <p>By making this decision, you’ve just opened the door to rewriting your life story—just like countless other members before you.</p>
+                        <div class="px-3">
+                            <div class="card mt-4 mb-5">
+                                <div class="card-body p-5">
+                                    <p class="fs-24 mb-3">“Just a few years ago, I was working long hours as a receptionist in a small office, barely making ends meet.
+                                    Now? I run my own online business and travel whenever I want. The <strong>Sixth Sense Code</strong> completely transformed my mindset and, more importantly, my bank account. I never thought this kind of freedom was possible until I unlocked my intuitive potential. It’s been life-changing!”</p>
+                                    <div class="d-flex align-items-center">
+                                        <img class="me-3 ls-is-cached lazyloaded" src="/assets/imgs/profile.png">
+                                        <div>
+                                            <p class="fs-20 mb-0"><strong>Sarah</strong></p>
+                                            <p class="fs-18 mb-0">Los Angeles, CA</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        <p>And yes, you don’t need any skills to pull this off.</p>
-                        <p>
-                            Just follow the instructions and advice inside your member’s area and I guarantee that your life will never be the same.</p>
-                        </p>
+                        <p>Listen, you don’t need any fancy skills to pull this off.</p>
+                        <p>Just follow the straightforward instructions in your member’s area, and I promise you—your life will be transformed like you never imagined!</p>
 
                         <div class="py-5 text-center">
-                            <img class="description-img w-60 w-xs-75"  src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png">
+                            <a href="https://sixthsensecode.com/dlarea_fe_sixthsense"><img class="description-img w-60 w-xs-75"  src="/assets/imgs/sixthsense/sixthsensecode-bundle1.png"></a>
                         </div>
                         <p class="text-center mb-5">
-                            <a href="#"><u>Click here if you’d like to access it right away</u></a>
+                            <a href="https://sixthsensecode.com/dlarea_fe_sixthsense"><u>Click here if you’d like to access it right away</u></a>
                         </p>
 
-                        <p>Rooting for you,</p>
-                        <p><strong>P.S.</strong> If you have any feedback, please shoot me an email. I want to hear about how Wealth DNA Code has changed your life.</p>
+                        <p>Harnessing your potential,</p>
+                        <div class="text-start">
+                            <img class="mb-5" style="max-width: 300px" src="/assets/imgs/sixthsense/signature.png">
+                        </div>
+                        <p><strong>P.S.</strong> I’d love to hear your thoughts! <a href="mailto:customer_support@sixthsensecode.com">Drop me an email</a> and share how the Sixth Sense Code has transformed your life.</p>
 
-                        <p class="mb-5"><strong>P.P.S.</strong> My team and I are not using any sophisticated email ticketing system on our end. So please bear with us if we are unable to reply to your emails right away. Our aim is to reply all emails within 24-48 hours.</p>
+                        <p class="mb-5"><strong>P.P.S.</strong> My team and I are keeping things simple without any fancy ticketing system. If it takes us a bit to respond, please be patient. We aim to reply to all emails within 24-48 hours!</p>
 
                         <div class="disclaimer-wrap">
                             <p class="text-center mb-2 mb-md-3"><strong>Disclaimer</strong></p>

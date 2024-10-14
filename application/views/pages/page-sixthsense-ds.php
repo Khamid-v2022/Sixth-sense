@@ -14,23 +14,21 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">               
-                    <p>
-                        Let me ask you, are you really satisfied with where you are at financially?
-                        </p><p>Don’t you wish you can manifest wealth as your heart desires, and not just manifest enough to survive?
-                        </p><p>Well, I understand almost everyone start off at a lower level, but this is definitely not the end.
-                        </p><p>I’ve just showed you how you can activate your Root Chakra and gain wealth consciousness, almost effortlessly.
-                        </p><p>The answer lies inside your DNA – and you can change that with Sixth Sense Code.
-                        </p><p>Now if the price is what’s stopping you, I can definitely help with that…
-                        </p><p>Don’t miss this chance!
+                    <p>Let me ask you something…</p>
+                    <p>Are you really happy with where you are financially?</p>
+                    <p>Or do you wish you could attract wealth effortlessly and in abundance, instead of scraping by?</p>
+                    <p>Look, I know we all start from somewhere. But here’s the truth: you don’t have to stay stuck.</p>
+                    <p>I’ve just shown you how to tap into the power of your sixth sense to shift your wealth mindset and start drawing in prosperity – like clockwork.</p>
+                    <p>It’s all about unlocking your intuitive potential. And with the <strong>Sixth Sense Code</strong>, you’ll do exactly that.</p>
+                    <p>Worried about the price? Forget it – I’ve got you covered.</p>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10">    
                         <div class="row align-items-center mb-5">
                             <div class="col-12 col-md-7 text-md-left">
-                                <p>Right now, on top of my 365 days, 100% money-back guarantee, <span class="text-brown">I’m going to give you <strong>a further 31% DISCOUNT.</strong></span></p>
-                                <p>Yes. You read it right.</P>
-                                <p>
-                                    Get the FULL set of <span class="text-brown">Sixth Sense Code</span>, COMPLETE with my iron-clad 365-day 100% money-back <br> guarantee, at a <strong>Special Discounted price of just</strong> <span class="text-green">$<span class="fs-30 fw-semibold">39!</span></span>
+                                <p>Right now, not only do you get my <strong>365-day, 100% money-back guarantee</strong>, but I’m also slashing the price by 31%.</p>
+                                <p>That’s right.</P>
+                                <p>Get the FULL <strong>Sixth Sense Code</strong> – backed by my iron-clad 365-day guarantee – for just <strong class="text-green">$27!</strong>
                                 </p>
                             </div>
                             <div class="col-12 col-md-5 text-center mb-3 mb-md-0">
@@ -66,8 +64,13 @@
                             <span>$</span>97
                             <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
                         </span>
+
+                        <span class="price-strike">
+                            <span>$</span>39
+                            <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
+                        </span>
                     </p>
-                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>39</span></p>
+                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>27</span></p>
                     <div class="mb-4">
                         <a href="#" class="btn btn-primary w-100">
                             <span class="d-block fs-30 lh-1 text-uppercase">Order Now</span>
@@ -86,12 +89,11 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <p>Wait no longer!
-                    </p><p>You are just a step away to becoming financially abundant and finally having the chance to live your BEST life!
-                    </p><p>Just click the button below to order. If you still qualify, you will be directed to the
-                    <br><span class="text-primary fw-semibold">Discounted Order Form</span> from Clickbank.
-                    </p><p>And I hope to see you on the other side! 
-                    </p>
+                    <p>Why wait?</p>
+                    <p>You’re just one step away from unlocking the financial freedom you deserve and living your BEST life on your terms.</p>
+                    <p>Click the button below NOW to claim your spot. If you qualify, you’ll be taken straight to the
+                    <br><span class="text-primary fw-semibold">Discounted Order Form</span> from Clickbank.</p>
+                    <p>I’ll be waiting for you on the other side, ready to welcome you to a life of abundance!</p>
                 </div>
             </div>
         </div>
@@ -115,8 +117,12 @@
                             <span>$</span>97
                             <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
                         </span>
+                        <span class="price-strike">
+                            <span>$</span>39
+                            <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
+                        </span>
                     </p>
-                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>39</span></p>
+                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>27</span></p>
                     <div class="mb-4">
                         <a href="#" class="btn btn-primary w-100">
                             <span class="d-block fs-30 lh-1 text-uppercase">Order Now</span>
@@ -171,8 +177,12 @@
                             <span>$</span>97
                             <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
                         </span>
+                        <span class="price-strike">
+                            <span>$</span>39
+                            <img class=" ls-is-cached" src="/assets/imgs/sixthsense/strike.png">
+                        </span>
                     </p>
-                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>39</span></p>
+                    <p class="new-price mb-3">Now for only: <span><span class="dollar">$</span>27</span></p>
                     <div class="mb-4">
                         <a href="#" class="btn btn-primary w-100">
                             <span class="d-block fs-30 lh-1 text-uppercase">Order Now</span>
@@ -211,7 +221,7 @@
             <div class="row justify-content-center mt-5">
                 <div class="col-12 col-md-7">
                     <div class="alert alert-warning fs-default px-3 px-md-4 py-2 py-md-3">
-                        <strong>Note:</strong> This program is 100% digital; you will not be receiving any physical materials.
+                        <strong>Important:</strong> This program is entirely digital – no physical materials needed. You can dive in right away, without waiting for anything to be shipped!
                     </div>
                 </div>
             </div>

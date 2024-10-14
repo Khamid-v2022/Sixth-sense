@@ -5,18 +5,21 @@
                 <div class="row">
                     <div class="col-12 text-center">
                         <p class="fs-14 mb-0">
-                            sixthsensecode.com |
+                            https://www.sixthsensecode.com/  |
                             Copyright ©
                             <?=date("Y")?>
                             All right reserved
                         </p>
-                        <p class="fs-14 mb-0 font-weight-bold">
-                            To reach our customer support please email us at <a href="mailto:customer_support@sixthsensecode.com"><u>customer_support@sixthsensecode.com</u></a>
-                        </p>
                     </div>
                 </div>
+                <div class="text-center">
+                    For Product Support, please contact the vendor <a href="mailto:customer_support@sixthsensecode.com" class="fw-semibold" target="_blank">HERE</a>.
+                </div>
+                <div class="text-center">
+                    For Order Support, please contact ClickBank at <a href="https://www.clkbank.com/#!/" class="fw-semibold" target="_blank">HERE</a>.
+                </div>
 
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-12 col-md-10 text-center d-md-flex justify-content-center mx-auto">
                         <div>
                             <a href="/terms-of-use" target="_blank"> Terms of Use</a>
@@ -31,7 +34,7 @@
                             <span class="d-none d-md-inline">&nbsp;|&nbsp;</span> <a href="/earning-disclaimer" target="_blank">Earnings Disclaimer</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </footer>
     </body>
